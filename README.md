@@ -27,9 +27,3 @@
 - 기존 면접관 Agent 프로젝트 경험을 확장하여 **더 안정적인 context 관리 및 흐름 설계 경험 확보**  
 - 문제 생성을 위한 prompt 설계, 평가 로직 튜닝 등을 반복하며 **LLM 기반 서비스 품질 개선 방식 체득**  
 - 플랫폼 형태로의 확장 가능성을 고려한 설계 경험
-
-### 💼 직무 연관성 강조
--(미정)
-
-### 📂 결과물
-- 🔗 [GitHub Repository](https://github.com/likemin35/myProject__AI_-/blob/main/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC_%EC%83%9D%EC%84%B1_with_Gradio.ipynb)
